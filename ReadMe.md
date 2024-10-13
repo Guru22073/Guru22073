@@ -1,7 +1,6 @@
 # 💫 About Me:
 
 Hi there 👋
-🔭 I’m currently in 4th year of my Bachelor's degree in CSE <br>🌱 I’m currently learning React.js and Node.js<br>💬 Ask me about anything related to frontend<br>
 
 ## 🌐 Socials:
 
